@@ -14,3 +14,7 @@ uv pip install jupyter transformers datasets torchcodec
 ## StressTest
 
 `stresstest.jsonl` is the jsonl file for the StressTest dataset.
+
+## ParaSpeechCaps Holdout
+
+`paraspeechcaps_holdout.jsonl` is the jsonl file for the ParaSpeechCaps Holdout dataset.
