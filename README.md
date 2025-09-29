@@ -1,2 +1,2 @@
-# Expressive-S2S
+# Paralinguistic Stressed
 Course Project of Multimodal Machine Learning
