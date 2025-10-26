@@ -8,7 +8,7 @@ conda activate expressive
 
 pip install uv
 uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu129
-uv pip install jupyter transformers datasets torchcodec
+uv pip install jupyter transformers datasets torchcodec soundfile
 ```
 
 ## StressTest
