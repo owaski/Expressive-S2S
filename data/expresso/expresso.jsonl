@@ -1,0 +1,336 @@
+{"id": "ex01_default_00358", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Karen's in Switzerland?", "prompt_id": "ex01_default_00163"}
+{"id": "ex01_default_00359", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "There's an alarm at one PM tomorrow, at five PM on Friday, and at nine AM next Wednesday.", "prompt_id": "ex01_default_00060"}
+{"id": "ex01_default_00360", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Is Manchester United winning?", "prompt_id": "ex01_default_00145"}
+{"id": "ex01_default_00361", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Gina?", "prompt_id": "ex01_default_00143"}
+{"id": "ex01_default_00362", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "You been to Osaka?", "prompt_id": "ex01_default_00311"}
+{"id": "ex01_default_00363", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "In *my* opinion, she's a hero.", "prompt_id": "ex01_default_00190"}
+{"id": "ex01_default_00364", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "That woman's a beast!", "prompt_id": "ex01_default_00283"}
+{"id": "ex01_default_00365", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Craft time.", "prompt_id": "ex01_default_00003"}
+{"id": "ex01_default_00366", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "You're quite wrong, he said.", "prompt_id": "ex01_default_00137"}
+{"id": "ex01_default_00367", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "So, what was he really doing?", "prompt_id": "ex01_default_00270"}
+{"id": "ex01_default_00368", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "So you'll back me up on this, cuz?", "prompt_id": "ex01_default_00099"}
+{"id": "ex01_default_00369", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "So the dog *ate* the canary?", "prompt_id": "ex01_default_00300"}
+{"id": "ex01_default_00370", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "At least *I* do.", "prompt_id": "ex01_default_essentials_00010"}
+{"id": "ex01_default_00371", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "What's the latest from the All Pakistan Drama Page?", "prompt_id": "ex01_default_00032"}
+{"id": "ex01_default_00372", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "How'd your shirt get torn, sweetie?", "prompt_id": "ex01_default_00168"}
+{"id": "ex01_default_00373", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "With exercising our first amendment rights?", "prompt_id": "ex01_default_00219"}
+{"id": "ex01_default_00374", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Yes, I have the doctor's appointment and checking the coffee on my to do list.", "prompt_id": "ex01_default_00041"}
+{"id": "ex01_default_00375", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Customer service will call you back.", "prompt_id": "ex01_default_00313"}
+{"id": "ex01_default_00376", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "Roger who?", "prompt_id": "ex01_default_00103"}
+{"id": "ex01_default_00377", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "And I'm loitering around in the shadows just carrying that torch for him, right?", "prompt_id": "ex01_default_00087"}
+{"id": "ex01_default_00378", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "I was in Australia actually.", "prompt_id": "ex01_default_00037"}
+{"id": "ex01_default_00379", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "So congrats to Murray.", "prompt_id": "ex01_default_00185"}
+{"id": "ex01_default_00380", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "But I'm very curious about what mindfulness entails to you.", "prompt_id": "ex01_default_00245"}
+{"id": "ex01_default_emphasis_00183", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "*I'm* in the *middle*.", "prompt_id": "ex01_default_emphasis_00006"}
+{"id": "ex01_default_emphasis_00184", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm in the *middle*.", "prompt_id": "ex01_default_emphasis_00036"}
+{"id": "ex01_default_emphasis_00185", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm running six miles a day.", "prompt_id": "ex01_default_emphasis_00074"}
+{"id": "ex01_default_emphasis_00186", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "*I'm* running six miles a day.", "prompt_id": "ex01_default_emphasis_00153"}
+{"id": "ex01_default_emphasis_00187", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm *running* six miles a day.", "prompt_id": "ex01_default_emphasis_00138"}
+{"id": "ex01_default_emphasis_00188", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm running *six* miles a day.", "prompt_id": "ex01_default_emphasis_00152"}
+{"id": "ex01_default_emphasis_00189", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm running six *miles* a day.", "prompt_id": "ex01_default_emphasis_00154"}
+{"id": "ex01_default_emphasis_00190", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "I'm running six miles a *day.*", "prompt_id": "ex01_default_emphasis_00085"}
+{"id": "ex01_default_emphasis_00191", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "So get ready for more Top Gear America.", "prompt_id": "ex01_default_emphasis_00122"}
+{"id": "ex01_default_emphasis_00192", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "So get ready for *more* Top Gear America.", "prompt_id": "ex01_default_emphasis_00057"}
+{"id": "ex01_default_emphasis_00193", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "So get ready for more Top Gear *America.*", "prompt_id": "ex01_default_emphasis_00097"}
+{"id": "ex01_default_emphasis_00194", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "And there's an opportunity here to embrace the bottom and make some real change.", "prompt_id": "ex01_default_emphasis_00041"}
+{"id": "ex01_default_emphasis_00195", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "And there's an opportunity here to *embrace* the bottom and make some *real* change.", "prompt_id": "ex01_default_emphasis_00044"}
+{"id": "ex01_default_emphasis_00196", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "You'll be so high up.", "prompt_id": "ex01_default_emphasis_00086"}
+{"id": "ex01_default_emphasis_00197", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "*You'll* be so high up.", "prompt_id": "ex01_default_emphasis_00039"}
+{"id": "ex01_default_emphasis_00198", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "You'll be *so* high up.", "prompt_id": "ex01_default_emphasis_00051"}
+{"id": "ex01_default_emphasis_00199", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "Other popular Disney movies are \"The Princess and the Frog\", \"The Little Mermaid\", and \"The lion king\".", "prompt_id": "ex01_default_emphasis_00052"}
+{"id": "ex01_default_emphasis_00200", "speaker": "ex01", "emotion": "default", "emphasis": true, "transcription": "Other popular *Disney* movies are \"The Princess and the Frog\", \"The Little Mermaid\", and \"The lion king\".", "prompt_id": "ex01_default_emphasis_00102"}
+{"id": "ex01_default_essentials_00037", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "W W W dot facebook dot com.", "prompt_id": "ex01_default_00178"}
+{"id": "ex01_default_essentials_00038", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "W W W dot google dot com.", "prompt_id": "ex01_default_00317"}
+{"id": "ex01_default_essentials_00039", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "That's twelve dollars and fifty cents please.", "prompt_id": "ex01_default_00123"}
+{"id": "ex01_default_essentials_00040", "speaker": "ex01", "emotion": "default", "emphasis": false, "transcription": "It's nine ninety nine after tax.", "prompt_id": "ex01_default_00224"}
+{"id": "ex01_happy_00357", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "You think that *maybe* there's a reason?", "prompt_id": "ex01_happy_00096"}
+{"id": "ex01_happy_00358", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Karen's in Switzerland?", "prompt_id": "ex01_happy_00001"}
+{"id": "ex01_happy_00359", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "There's an alarm at one PM tomorrow, at five PM on Friday, and at nine AM next Wednesday.", "prompt_id": "ex01_happy_00295"}
+{"id": "ex01_happy_00360", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Is Manchester United winning?", "prompt_id": "ex01_happy_00038"}
+{"id": "ex01_happy_00361", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Gina?", "prompt_id": "ex01_happy_00271"}
+{"id": "ex01_happy_00362", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "You been to Osaka?", "prompt_id": "ex01_happy_00339"}
+{"id": "ex01_happy_00363", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "In *my* opinion, she's a hero.", "prompt_id": "ex01_happy_00174"}
+{"id": "ex01_happy_00364", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "That woman's a beast!", "prompt_id": "ex01_happy_00292"}
+{"id": "ex01_happy_00365", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Craft time.", "prompt_id": "ex01_happy_00222"}
+{"id": "ex01_happy_00366", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "You're quite wrong, he said.", "prompt_id": "ex01_happy_00311"}
+{"id": "ex01_happy_00367", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "So, what was he really doing?", "prompt_id": "ex01_happy_00167"}
+{"id": "ex01_happy_00368", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "So you'll back me up on this, cuz?", "prompt_id": "ex01_happy_00077"}
+{"id": "ex01_happy_00369", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "So the dog *ate* the canary?", "prompt_id": "ex01_happy_00213"}
+{"id": "ex01_happy_00370", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "At least *I* do.", "prompt_id": "ex01_happy_00143"}
+{"id": "ex01_happy_00371", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "What's the latest from the All Pakistan Drama Page?", "prompt_id": "ex01_happy_00083"}
+{"id": "ex01_happy_00372", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "How'd your shirt get torn, sweetie?", "prompt_id": "ex01_happy_00245"}
+{"id": "ex01_happy_00373", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "With exercising our first amendment rights?", "prompt_id": "ex01_happy_00329"}
+{"id": "ex01_happy_00374", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Yes, I have the doctor's appointment and checking the coffee on my to do list.", "prompt_id": "ex01_happy_00246"}
+{"id": "ex01_happy_00375", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Customer service'll call you back.", "prompt_id": "ex01_happy_00331"}
+{"id": "ex01_happy_00376", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "Roger who?", "prompt_id": "ex01_happy_00172"}
+{"id": "ex01_happy_00377", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "And I'm loitering around in the shadows just carrying that torch for him, right?", "prompt_id": "ex01_happy_00101"}
+{"id": "ex01_happy_00378", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "I was in Australia actually.", "prompt_id": "ex01_happy_00069"}
+{"id": "ex01_happy_00379", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "So congrats to Murray.", "prompt_id": "ex01_happy_00034"}
+{"id": "ex01_happy_00380", "speaker": "ex01", "emotion": "happy", "emphasis": false, "transcription": "But I'm very curious about what mindfulness entails to you.", "prompt_id": "ex01_happy_00298"}
+{"id": "ex01_sad_00358", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Karen's in Switzerland?", "prompt_id": "ex01_sad_00013"}
+{"id": "ex01_sad_00359", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "There's an alarm at one PM tomorrow, at five PM on Friday, and at nine AM next Wednesday.", "prompt_id": "ex01_sad_00082"}
+{"id": "ex01_sad_00360", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Is Manchester United winning?", "prompt_id": "ex01_sad_00196"}
+{"id": "ex01_sad_00361", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Gina?", "prompt_id": "ex01_sad_00256"}
+{"id": "ex01_sad_00362", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "You been to Osaka?", "prompt_id": "ex01_sad_00113"}
+{"id": "ex01_sad_00363", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "In *my* opinion, she's a hero.", "prompt_id": "ex01_sad_00170"}
+{"id": "ex01_sad_00364", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "That woman's a beast!", "prompt_id": "ex01_sad_00018"}
+{"id": "ex01_sad_00365", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Craft time.", "prompt_id": "ex01_sad_00331"}
+{"id": "ex01_sad_00366", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "You're quite wrong, he said.", "prompt_id": "ex01_sad_00174"}
+{"id": "ex01_sad_00367", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "So, what was he really doing?", "prompt_id": "ex01_sad_00018"}
+{"id": "ex01_sad_00368", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "So you'll back me up on this, cuz?", "prompt_id": "ex01_sad_00339"}
+{"id": "ex01_sad_00369", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "So the dog ate the canary?", "prompt_id": "ex01_sad_00040"}
+{"id": "ex01_sad_00370", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "At least *I* do.", "prompt_id": "ex01_sad_00303"}
+{"id": "ex01_sad_00371", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "What's the latest from the All Pakistan Drama Page?", "prompt_id": "ex01_sad_00255"}
+{"id": "ex01_sad_00372", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "How'd your shirt get torn, sweetie?", "prompt_id": "ex01_sad_00236"}
+{"id": "ex01_sad_00373", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "With exercising our first amendment rights?", "prompt_id": "ex01_sad_00041"}
+{"id": "ex01_sad_00374", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Yes, I have the doctor's appointment and checking the coffee on my to do list.", "prompt_id": "ex01_sad_00128"}
+{"id": "ex01_sad_00375", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Customer service will call you back.", "prompt_id": "ex01_sad_00307"}
+{"id": "ex01_sad_00376", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "Roger who?", "prompt_id": "ex01_sad_00132"}
+{"id": "ex01_sad_00377", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "And I'm loitering around in the shadows just carrying that torch for him, right?", "prompt_id": "ex01_sad_00137"}
+{"id": "ex01_sad_00378", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "I was in Australia actually.", "prompt_id": "ex01_sad_00076"}
+{"id": "ex01_sad_00379", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "So congrats to Murray.", "prompt_id": "ex01_sad_00248"}
+{"id": "ex01_sad_00380", "speaker": "ex01", "emotion": "sad", "emphasis": false, "transcription": "But I'm very curious about what mindfulness entails to you.", "prompt_id": "ex01_sad_00305"}
+{"id": "ex02_default_00363", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "When you place a bet with William Hill sports book, every sports moment becomes even more interesting.", "prompt_id": "ex02_default_00310"}
+{"id": "ex02_default_00364", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "For the other parties, it is back to business as usual.", "prompt_id": "ex02_default_00084"}
+{"id": "ex02_default_00365", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "What do you do?", "prompt_id": "ex02_default_00281"}
+{"id": "ex02_default_00366", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Is it your self-destructive tendencies?", "prompt_id": "ex02_default_00104"}
+{"id": "ex02_default_00367", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "I'm more of an all terrain vehicle type.", "prompt_id": "ex02_default_00163"}
+{"id": "ex02_default_00368", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "You want the shark?", "prompt_id": "ex02_default_00259"}
+{"id": "ex02_default_00369", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "You have to have products for their needs.", "prompt_id": "ex02_default_00026"}
+{"id": "ex02_default_00370", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Welcome back! How are you?", "prompt_id": "ex02_default_00292"}
+{"id": "ex02_default_00371", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "He already does, *okay*?", "prompt_id": "ex02_default_00015"}
+{"id": "ex02_default_00372", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Does she have visions of the Armageddon, speak in tongues?", "prompt_id": "ex02_default_00092"}
+{"id": "ex02_default_00373", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Fix the door Bender!", "prompt_id": "ex02_default_00224"}
+{"id": "ex02_default_00374", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Yes, in Mumbai tomorrow night, it's gonna be clear, with a high of twenty six and a low of one.", "prompt_id": "ex02_default_00253"}
+{"id": "ex02_default_00375", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "One PM to nine PM, it'll be cloudy, and in the low fifties.", "prompt_id": "ex02_default_00096"}
+{"id": "ex02_default_00376", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Is young adult fiction very popular?", "prompt_id": "ex02_default_00234"}
+{"id": "ex02_default_00377", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "We didn't get the weather right, guys.", "prompt_id": "ex02_default_00313"}
+{"id": "ex02_default_00378", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "This is usually inexpensive, has a mild flavor, cooks quickly.", "prompt_id": "ex02_default_essentials_00003"}
+{"id": "ex02_default_00379", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "Just taking like the TV show Big Bang is an example.", "prompt_id": "ex02_default_essentials_00005"}
+{"id": "ex02_default_00380", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "You can log into your account any time and send a message to your counselor to get timely and thoughtful responses.", "prompt_id": "ex02_default_00002"}
+{"id": "ex02_default_emphasis_00181", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "Because we're preparing *you* a feast.", "prompt_id": "ex02_default_emphasis_00153"}
+{"id": "ex02_default_emphasis_00182", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "Because we're preparing you a *feast.*", "prompt_id": "ex02_default_emphasis_00053"}
+{"id": "ex02_default_emphasis_00183", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "That's better than sexiest man alive.", "prompt_id": "ex02_default_emphasis_00077"}
+{"id": "ex02_default_emphasis_00184", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "That's *better* than sexiest man alive.", "prompt_id": "ex02_default_emphasis_00158"}
+{"id": "ex02_default_emphasis_00185", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "That's better than *sexiest* man alive.", "prompt_id": "ex02_default_emphasis_00036"}
+{"id": "ex02_default_emphasis_00186", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "That's better than sexiest man *alive.*", "prompt_id": "ex02_default_emphasis_00055"}
+{"id": "ex02_default_emphasis_00187", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "My grandson was elected lieutenant governor.", "prompt_id": "ex02_default_emphasis_00117"}
+{"id": "ex02_default_emphasis_00188", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "*My* grandson was elected lieutenant governor.", "prompt_id": "ex02_default_emphasis_00096"}
+{"id": "ex02_default_emphasis_00189", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "My *grandson* was elected lieutenant governor.", "prompt_id": "ex02_default_emphasis_00112"}
+{"id": "ex02_default_emphasis_00190", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "My grandson was *elected* lieutenant governor.", "prompt_id": "ex02_default_emphasis_00031"}
+{"id": "ex02_default_emphasis_00191", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "My grandson was elected *lieutenant* governor.", "prompt_id": "ex02_default_emphasis_00094"}
+{"id": "ex02_default_emphasis_00192", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She is a Singaporean actress of Indonesian descent.", "prompt_id": "ex02_default_emphasis_00015"}
+{"id": "ex02_default_emphasis_00193", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "*She* is a Singaporean actress of Indonesian descent.", "prompt_id": "ex02_default_emphasis_00026"}
+{"id": "ex02_default_emphasis_00194", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She *is* a Singaporean actress of Indonesian descent.", "prompt_id": "ex02_default_emphasis_00139"}
+{"id": "ex02_default_emphasis_00195", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She is a *Singaporean* actress of Indonesian descent.", "prompt_id": "ex02_default_emphasis_00118"}
+{"id": "ex02_default_emphasis_00196", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She is a Singaporean *actress* of Indonesian descent.", "prompt_id": "ex02_default_emphasis_00044"}
+{"id": "ex02_default_emphasis_00197", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She is a Singaporean actress of *Indonesian* descent.", "prompt_id": "ex02_default_emphasis_00159"}
+{"id": "ex02_default_emphasis_00198", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "She is a Singaporean actress of Indonesian *descent*.", "prompt_id": "ex02_default_emphasis_00019"}
+{"id": "ex02_default_emphasis_00199", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "Ugly Love and \"This Girl\" are a few of my favorites.", "prompt_id": "ex02_default_emphasis_00112"}
+{"id": "ex02_default_emphasis_00200", "speaker": "ex02", "emotion": "default", "emphasis": true, "transcription": "Ugly Love and \"This Girl\" are a *few* of my favorites.", "prompt_id": "ex02_default_emphasis_00121"}
+{"id": "ex02_default_essentials_00037", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "W W W dot facebook dot com.", "prompt_id": "ex02_default_00036"}
+{"id": "ex02_default_essentials_00038", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "W W W dot google dot com.", "prompt_id": "ex02_default_00143"}
+{"id": "ex02_default_essentials_00039", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "That's twelve dollars and fifty cents please.", "prompt_id": "ex02_default_00073"}
+{"id": "ex02_default_essentials_00040", "speaker": "ex02", "emotion": "default", "emphasis": false, "transcription": "It's nine ninety nine after tax.", "prompt_id": "ex02_default_00302"}
+{"id": "ex02_happy_00363", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "When you place a bet with William Hill sports book, every sports moment becomes even more interesting.", "prompt_id": "ex02_happy_00053"}
+{"id": "ex02_happy_00364", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "For the other parties, it is back to business as usual.", "prompt_id": "ex02_happy_00298"}
+{"id": "ex02_happy_00365", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "What do you do?", "prompt_id": "ex02_happy_00136"}
+{"id": "ex02_happy_00366", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Is it your self-destructive tendencies?", "prompt_id": "ex02_happy_00152"}
+{"id": "ex02_happy_00367", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "I'm more of an all terrain vehicle type.", "prompt_id": "ex02_happy_00244"}
+{"id": "ex02_happy_00368", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "You want the shark?", "prompt_id": "ex02_happy_00312"}
+{"id": "ex02_happy_00369", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "You have to have products for their needs.", "prompt_id": "ex02_happy_00129"}
+{"id": "ex02_happy_00370", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Welcome back! How are you?", "prompt_id": "ex02_happy_00121"}
+{"id": "ex02_happy_00371", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "He already does, *okay*?", "prompt_id": "ex02_happy_00154"}
+{"id": "ex02_happy_00372", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Does she have visions of the Armageddon, speak in tongues?", "prompt_id": "ex02_happy_00229"}
+{"id": "ex02_happy_00373", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Fix the door Bender!", "prompt_id": "ex02_happy_00204"}
+{"id": "ex02_happy_00374", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Yes, in Mumbai tomorrow night, it's gonna be clear, with a high of twenty six and a low of one.", "prompt_id": "ex02_happy_00112"}
+{"id": "ex02_happy_00375", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "One PM to nine PM, it'll be cloudy, and in the low fifties.", "prompt_id": "ex02_happy_00164"}
+{"id": "ex02_happy_00376", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Is young adult fiction very popular?", "prompt_id": "ex02_happy_00027"}
+{"id": "ex02_happy_00377", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "We didn't get the weather right, guys.", "prompt_id": "ex02_happy_00334"}
+{"id": "ex02_happy_00378", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "This is usually inexpensive, has a mild flavor, and cooks quickly.", "prompt_id": "ex02_happy_00094"}
+{"id": "ex02_happy_00379", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "Just taking like the TV show Big Bang is an example.", "prompt_id": "ex02_happy_00199"}
+{"id": "ex02_happy_00380", "speaker": "ex02", "emotion": "happy", "emphasis": false, "transcription": "You can log into your account *any* time and send a message to your counselor and get a timely and thoughtful responses.", "prompt_id": "ex02_happy_00051"}
+{"id": "ex02_sad_00363", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "When you place a bet with William Hill sports book, every sports moment becomes even more interesting.", "prompt_id": "ex02_sad_00023"}
+{"id": "ex02_sad_00364", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "For the other parties, it is back to business as usual.", "prompt_id": "ex02_sad_00018"}
+{"id": "ex02_sad_00365", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "What do you do?", "prompt_id": "ex02_sad_00103"}
+{"id": "ex02_sad_00366", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Is it your self-destructive tendencies?", "prompt_id": "ex02_sad_00208"}
+{"id": "ex02_sad_00367", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "I'm more of an all terrain vehicle type.", "prompt_id": "ex02_sad_00161"}
+{"id": "ex02_sad_00368", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "You *want* the shark?", "prompt_id": "ex02_sad_00103"}
+{"id": "ex02_sad_00369", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "You have to have products for their needs.", "prompt_id": "ex02_sad_00022"}
+{"id": "ex02_sad_00370", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Welcome back! How are you?", "prompt_id": "ex02_sad_00321"}
+{"id": "ex02_sad_00371", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "He already does, *okay*?", "prompt_id": "ex02_sad_00182"}
+{"id": "ex02_sad_00372", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Does she have visions of the Armageddon, speak in tongues?", "prompt_id": "ex02_sad_00115"}
+{"id": "ex02_sad_00373", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Fix the door Bender!", "prompt_id": "ex02_sad_00088"}
+{"id": "ex02_sad_00374", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Yes, in Mumbai tomorrow night, it's gonna be clear, with a high of twenty six and a low of one.", "prompt_id": "ex02_sad_00059"}
+{"id": "ex02_sad_00375", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "One PM to nine PM, it'll be cloudy, and in the low fifties.", "prompt_id": "ex02_sad_00032"}
+{"id": "ex02_sad_00376", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Is young adult fiction very popular?", "prompt_id": "ex02_sad_00022"}
+{"id": "ex02_sad_00377", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "We didn't get the weather right, guys.", "prompt_id": "ex02_sad_00002"}
+{"id": "ex02_sad_00378", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "This is usually inexpensive, has a mild flavor, cooks quickly.", "prompt_id": "ex02_sad_00098"}
+{"id": "ex02_sad_00379", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "Just taking like the TV show Big Bang is an example.", "prompt_id": "ex02_sad_00003"}
+{"id": "ex02_sad_00380", "speaker": "ex02", "emotion": "sad", "emphasis": false, "transcription": "You can log into your account any time and send a message to your counselor and get a timely, thoughtful response.", "prompt_id": "ex02_sad_00159"}
+{"id": "ex03_default_00356", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Have you seen the sign-up sheet for auditions?", "prompt_id": "ex03_default_00157"}
+{"id": "ex03_default_00357", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Help is on the way!", "prompt_id": "ex03_default_00128"}
+{"id": "ex03_default_00358", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Inez?", "prompt_id": "ex03_default_00103"}
+{"id": "ex03_default_00359", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "If you wanna drive me crazy, have some beeping somewhere.", "prompt_id": "ex03_default_00011"}
+{"id": "ex03_default_00360", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "What kind of bird sticks to sweaters? A *vel-crow*.", "prompt_id": "ex03_default_00223"}
+{"id": "ex03_default_00361", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "But ethically, you're fine.", "prompt_id": "ex03_default_00071"}
+{"id": "ex03_default_00362", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "But who cares?", "prompt_id": "ex03_default_00288"}
+{"id": "ex03_default_00363", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "How *could* you betray me?", "prompt_id": "ex03_default_00279"}
+{"id": "ex03_default_00364", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Any cramping, any discomfort or pain?", "prompt_id": "ex03_default_00012"}
+{"id": "ex03_default_00365", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "I think however, he was having a fit!", "prompt_id": "ex03_default_00018"}
+{"id": "ex03_default_00366", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Who has the second highest?", "prompt_id": "ex03_default_00231"}
+{"id": "ex03_default_00367", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Swell.", "prompt_id": "ex03_default_00154"}
+{"id": "ex03_default_00368", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Are they bosom buddies?", "prompt_id": "ex03_default_essentials_00033"}
+{"id": "ex03_default_00369", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "National Freedom Day in Nassau is Monday, February first.", "prompt_id": "ex03_default_00054"}
+{"id": "ex03_default_00370", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Terminate camera app.", "prompt_id": "ex03_default_00015"}
+{"id": "ex03_default_00371", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Have you read her work before?", "prompt_id": "ex03_default_00205"}
+{"id": "ex03_default_00372", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Surprised to see me?", "prompt_id": "ex03_default_00019"}
+{"id": "ex03_default_00373", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Any news on the dancer assault case?", "prompt_id": "ex03_default_00041"}
+{"id": "ex03_default_00374", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Today in New York, it isn't gonna be hazy.", "prompt_id": "ex03_default_00131"}
+{"id": "ex03_default_00375", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Kinney says women had pockets until the eighteen hundreds when for various complicated and mostly sexist reasons, women lost their pockets.", "prompt_id": "ex03_default_00205"}
+{"id": "ex03_default_00376", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "His name is Adam Brody.", "prompt_id": "ex03_default_essentials_00010"}
+{"id": "ex03_default_00377", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "We did a movie called Desperados for Netflix last year.", "prompt_id": "ex03_default_00009"}
+{"id": "ex03_default_00378", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Had it not been for that squirrel, I'm pretty sure I would have went to Harvard.", "prompt_id": "ex03_default_00020"}
+{"id": "ex03_default_00379", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "I'm nineteen and this is nineteen ninety eight.", "prompt_id": "ex03_default_00298"}
+{"id": "ex03_default_00380", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "Me and Steve and Greg were all having lunch together.", "prompt_id": "ex03_default_00248"}
+{"id": "ex03_default_emphasis_00181", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The Sudanese government did not want to risk more bad publicity.", "prompt_id": "ex03_default_emphasis_00012"}
+{"id": "ex03_default_emphasis_00182", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The *Sudanese* government did not want to risk more bad publicity.", "prompt_id": "ex03_default_emphasis_00037"}
+{"id": "ex03_default_emphasis_00183", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The Sudanese *government* did not want to risk more bad publicity.", "prompt_id": "ex03_default_emphasis_00094"}
+{"id": "ex03_default_emphasis_00184", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The Sudanese government did *not* want to risk more bad publicity.", "prompt_id": "ex03_default_emphasis_00143"}
+{"id": "ex03_default_emphasis_00185", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The Sudanese government did not want to risk *more* bad publicity.", "prompt_id": "ex03_default_emphasis_00124"}
+{"id": "ex03_default_emphasis_00186", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "The Sudanese government did not want to risk more *bad* publicity.", "prompt_id": "ex03_default_emphasis_00103"}
+{"id": "ex03_default_emphasis_00187", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "You're throwing Victor a party?", "prompt_id": "ex03_default_emphasis_00150"}
+{"id": "ex03_default_emphasis_00188", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "*You're* throwing Victor a party?", "prompt_id": "ex03_default_emphasis_00149"}
+{"id": "ex03_default_emphasis_00189", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "You're throwing *Victor* a party?", "prompt_id": "ex03_default_emphasis_00065"}
+{"id": "ex03_default_emphasis_00190", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "You're throwing Victor a *party?*", "prompt_id": "ex03_default_emphasis_00007"}
+{"id": "ex03_default_emphasis_00191", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Frozen Fire won the two thousand eight Irish derby.", "prompt_id": "ex03_default_emphasis_00101"}
+{"id": "ex03_default_emphasis_00192", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "*Frozen Fire* won the two thousand eight Irish derby.", "prompt_id": "ex03_default_emphasis_00144"}
+{"id": "ex03_default_emphasis_00193", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Frozen Fire *won* the two thousand eight Irish derby.", "prompt_id": "ex03_default_emphasis_00032"}
+{"id": "ex03_default_emphasis_00194", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Frozen Fire won the two thousand *eight* Irish derby.", "prompt_id": "ex03_default_emphasis_00127"}
+{"id": "ex03_default_emphasis_00195", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Frozen Fire won the two thousand eight *Irish* derby.", "prompt_id": "ex03_default_emphasis_00066"}
+{"id": "ex03_default_emphasis_00196", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Frozen Fire won the two thousand eight Irish *derby*.", "prompt_id": "ex03_default_emphasis_00091"}
+{"id": "ex03_default_emphasis_00197", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Continue watching this video?", "prompt_id": "ex03_default_emphasis_00065"}
+{"id": "ex03_default_emphasis_00198", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "*Continue* watching this video?", "prompt_id": "ex03_default_emphasis_00094"}
+{"id": "ex03_default_emphasis_00199", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Continue *watching* this video?", "prompt_id": "ex03_default_emphasis_00022"}
+{"id": "ex03_default_emphasis_00200", "speaker": "ex03", "emotion": "default", "emphasis": true, "transcription": "Continue watching *this* video?", "prompt_id": "ex03_default_emphasis_00107"}
+{"id": "ex03_default_essentials_00037", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "W W W dot facebook dot com.", "prompt_id": "ex03_default_essentials_00025"}
+{"id": "ex03_default_essentials_00038", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "W W W dot google dot com.", "prompt_id": "ex03_default_00104"}
+{"id": "ex03_default_essentials_00039", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "That's twelve dollars and fifty cents please.", "prompt_id": "ex03_default_00232"}
+{"id": "ex03_default_essentials_00040", "speaker": "ex03", "emotion": "default", "emphasis": false, "transcription": "It's nine ninety nine after tax.", "prompt_id": "ex03_default_00121"}
+{"id": "ex03_happy_00359", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "If you wanna drive me crazy, have some beeping somewhere.", "prompt_id": "ex03_happy_00108"}
+{"id": "ex03_happy_00360", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "What kind of bird sticks to sweaters? A *vel-crow*.", "prompt_id": "ex03_happy_00137"}
+{"id": "ex03_happy_00361", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "But ethically, you're fine.", "prompt_id": "ex03_happy_00226"}
+{"id": "ex03_happy_00362", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "But who cares?", "prompt_id": "ex03_happy_00037"}
+{"id": "ex03_happy_00363", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "How *could* you betray me?", "prompt_id": "ex03_happy_00053"}
+{"id": "ex03_happy_00364", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Any cramping, any discomfort or pain?", "prompt_id": "ex03_happy_00181"}
+{"id": "ex03_happy_00365", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "I think however, he was having a fit!", "prompt_id": "ex03_happy_00044"}
+{"id": "ex03_happy_00366", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Who has the second highest?", "prompt_id": "ex03_happy_00280"}
+{"id": "ex03_happy_00367", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Swell.", "prompt_id": "ex03_happy_00014"}
+{"id": "ex03_happy_00368", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Are they bosom buddies?", "prompt_id": "ex03_happy_00004"}
+{"id": "ex03_happy_00369", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "National Freedom Day in Nassau is Monday, February first.", "prompt_id": "ex03_happy_00157"}
+{"id": "ex03_happy_00370", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Terminate camera app.", "prompt_id": "ex03_happy_00039"}
+{"id": "ex03_happy_00371", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Have you read her work before?", "prompt_id": "ex03_happy_00082"}
+{"id": "ex03_happy_00372", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Surprised to see me?", "prompt_id": "ex03_happy_00183"}
+{"id": "ex03_happy_00373", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Any news on the dancer assault case?", "prompt_id": "ex03_happy_00030"}
+{"id": "ex03_happy_00374", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Today in New York, it isn't gonna be hazy.", "prompt_id": "ex03_happy_00262"}
+{"id": "ex03_happy_00375", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Kinney says women had pockets until the eighteen hundreds when for various complicated and mostly sexist reasons, women lost their pockets.", "prompt_id": "ex03_happy_00193"}
+{"id": "ex03_happy_00376", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "His name is Adam Brody.", "prompt_id": "ex03_happy_00052"}
+{"id": "ex03_happy_00377", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "We did a movie called Desperados for Netflix last year.", "prompt_id": "ex03_happy_00040"}
+{"id": "ex03_happy_00378", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Had it not been for that squirrel, I'm pretty sure I would have went to Harvard.", "prompt_id": "ex03_happy_00115"}
+{"id": "ex03_happy_00379", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "I'm nineteen and this is nineteen ninety eight.", "prompt_id": "ex03_happy_00104"}
+{"id": "ex03_happy_00380", "speaker": "ex03", "emotion": "happy", "emphasis": false, "transcription": "Me and Steve and Greg were all having lunch together.", "prompt_id": "ex03_happy_00252"}
+{"id": "ex03_sad_00363", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "How *could* you betray me?", "prompt_id": "ex03_sad_00330"}
+{"id": "ex03_sad_00364", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Any cramping, any discomfort or pain?", "prompt_id": "ex03_sad_00319"}
+{"id": "ex03_sad_00365", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "I think however, he was having a fit!", "prompt_id": "ex03_sad_00134"}
+{"id": "ex03_sad_00366", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Who has the second highest?", "prompt_id": "ex03_sad_00019"}
+{"id": "ex03_sad_00367", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Swell.", "prompt_id": "ex03_sad_00142"}
+{"id": "ex03_sad_00368", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Are they bosom buddies?", "prompt_id": "ex03_sad_00140"}
+{"id": "ex03_sad_00369", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "National Freedom Day in Nassau is Monday, February first.", "prompt_id": "ex03_sad_00189"}
+{"id": "ex03_sad_00370", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Terminate camera app.", "prompt_id": "ex03_sad_00038"}
+{"id": "ex03_sad_00371", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Have you read her work before?", "prompt_id": "ex03_sad_00164"}
+{"id": "ex03_sad_00372", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Surprised to see me?", "prompt_id": "ex03_sad_00073"}
+{"id": "ex03_sad_00373", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Any news on the dancer assault case?", "prompt_id": "ex03_sad_00171"}
+{"id": "ex03_sad_00374", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Today in New York, it isn't gonna be hazy.", "prompt_id": "ex03_sad_00131"}
+{"id": "ex03_sad_00375", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Kinney says women had pockets until the eighteen hundreds when for various complicated and mostly sexist reasons, women lost their pockets.", "prompt_id": "ex03_sad_00301"}
+{"id": "ex03_sad_00376", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "His name is Adam Brody.", "prompt_id": "ex03_sad_00017"}
+{"id": "ex03_sad_00377", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "We did a movie called Desperados for Netflix last year.", "prompt_id": "ex03_sad_00250"}
+{"id": "ex03_sad_00378", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Had it not been for that squirrel, I'm pretty sure I would have went to Harvard.", "prompt_id": "ex03_sad_00296"}
+{"id": "ex03_sad_00379", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "I'm nineteen and this is nineteen ninety eight.", "prompt_id": "ex03_sad_00010"}
+{"id": "ex03_sad_00380", "speaker": "ex03", "emotion": "sad", "emphasis": false, "transcription": "Me and Steve and Greg were all having lunch together.", "prompt_id": "ex03_sad_00128"}
+{"id": "ex04_default_00362", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "We toured with the Charlie Daniels Band.", "prompt_id": "ex04_default_00106"}
+{"id": "ex04_default_00363", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "I was born in Hadesburg, Mississippi.", "prompt_id": "ex04_default_00272"}
+{"id": "ex04_default_00364", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "OK, now you have a podcast that's available on Audible.", "prompt_id": "ex04_default_00280"}
+{"id": "ex04_default_00365", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Yeah, he called his house an East Coast Playboy mansion.", "prompt_id": "ex04_default_00136"}
+{"id": "ex04_default_00366", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "We are going to eat our way through Pennsylvania completely.", "prompt_id": "ex04_default_00270"}
+{"id": "ex04_default_00367", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "It's called Solomon's Paradox.", "prompt_id": "ex04_default_00062"}
+{"id": "ex04_default_00368", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Britain's intent when establishing New South Wales was for it to be a penal colony.", "prompt_id": "ex04_default_00119"}
+{"id": "ex04_default_00369", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Actually, you did a muted version of Conan O'Brien.", "prompt_id": "ex04_default_00238"}
+{"id": "ex04_default_00370", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "And also, Denise, you're not fooling anyone with those curls.", "prompt_id": "ex04_default_00104"}
+{"id": "ex04_default_00371", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Again the parallel with football can be drawn.", "prompt_id": "ex04_default_00237"}
+{"id": "ex04_default_00372", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "He moved back to Edinburgh, where he lived with his mother.", "prompt_id": "ex04_default_00217"}
+{"id": "ex04_default_00373", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky.", "prompt_id": "ex04_default_00189"}
+{"id": "ex04_default_00374", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "He is hungry for success and I am the same.", "prompt_id": "ex04_default_00211"}
+{"id": "ex04_default_00375", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "They do not work for Glasgow City Council.", "prompt_id": "ex04_default_00240"}
+{"id": "ex04_default_00376", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Yes, today in Charleston there's a very low chance of heavy thunderstorms and rain.", "prompt_id": "ex04_default_00277"}
+{"id": "ex04_default_00377", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "take the highway one oh one exit towards San Jose.", "prompt_id": "ex04_default_00232"}
+{"id": "ex04_default_00378", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "He confessed to killing Dusty.", "prompt_id": "ex04_default_00101"}
+{"id": "ex04_default_00379", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Keep going until you see it.", "prompt_id": "ex04_default_00158"}
+{"id": "ex04_default_00380", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "Here's the outlook for Mumbai over the next four days.", "prompt_id": "ex04_default_00208"}
+{"id": "ex04_default_emphasis_00182", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "he doesn't remember anything.", "prompt_id": "ex04_default_emphasis_00029"}
+{"id": "ex04_default_emphasis_00183", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "*he* doesn't remember anything.", "prompt_id": "ex04_default_emphasis_00071"}
+{"id": "ex04_default_emphasis_00184", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "he *doesn't* remember anything.", "prompt_id": "ex04_default_emphasis_00120"}
+{"id": "ex04_default_emphasis_00185", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "he doesn't *remember* anything.", "prompt_id": "ex04_default_emphasis_00115"}
+{"id": "ex04_default_emphasis_00186", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "There is a similar story for milk and dairy products.", "prompt_id": "ex04_default_emphasis_00021"}
+{"id": "ex04_default_emphasis_00187", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "There *is* a similar story for milk and dairy products.", "prompt_id": "ex04_default_emphasis_00017"}
+{"id": "ex04_default_emphasis_00188", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "There is a *similar* story for milk and dairy products.", "prompt_id": "ex04_default_emphasis_00081"}
+{"id": "ex04_default_emphasis_00189", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "There is a similar story for *milk* and dairy products.", "prompt_id": "ex04_default_emphasis_00026"}
+{"id": "ex04_default_emphasis_00190", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "There is a similar story for milk and *dairy* products.", "prompt_id": "ex04_default_emphasis_00036"}
+{"id": "ex04_default_emphasis_00191", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "good designers obsess over typography.", "prompt_id": "ex04_default_emphasis_00028"}
+{"id": "ex04_default_emphasis_00192", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "*good* designers obsess over typography.", "prompt_id": "ex04_default_emphasis_00079"}
+{"id": "ex04_default_emphasis_00193", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "good *designers* obsess over typography.", "prompt_id": "ex04_default_emphasis_00094"}
+{"id": "ex04_default_emphasis_00194", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "good designers *obsess* over typography.", "prompt_id": "ex04_default_emphasis_00151"}
+{"id": "ex04_default_emphasis_00195", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "good designers obsess over *typography.*", "prompt_id": "ex04_default_emphasis_00104"}
+{"id": "ex04_default_emphasis_00196", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "Marina's Zebra didn't blink or budge.", "prompt_id": "ex04_default_emphasis_00019"}
+{"id": "ex04_default_emphasis_00197", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "*Marina's* Zebra didn't blink or budge.", "prompt_id": "ex04_default_emphasis_00109"}
+{"id": "ex04_default_emphasis_00198", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "Marina's *Zebra* didn't blink or budge.", "prompt_id": "ex04_default_emphasis_00083"}
+{"id": "ex04_default_emphasis_00199", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "Marina's Zebra *didn't* blink or budge.", "prompt_id": "ex04_default_emphasis_00154"}
+{"id": "ex04_default_emphasis_00200", "speaker": "ex04", "emotion": "default", "emphasis": true, "transcription": "Marina's Zebra didn't blink *or* budge.", "prompt_id": "ex04_default_emphasis_00152"}
+{"id": "ex04_default_essentials_00037", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "W W W dot facebook dot com.", "prompt_id": "ex04_default_00256"}
+{"id": "ex04_default_essentials_00038", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "W W W dot google dot com.", "prompt_id": "ex04_default_00299"}
+{"id": "ex04_default_essentials_00039", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "That's twelve dollars and fifty cents please.", "prompt_id": "ex04_default_00242"}
+{"id": "ex04_default_essentials_00040", "speaker": "ex04", "emotion": "default", "emphasis": false, "transcription": "It's nine ninety nine after tax.", "prompt_id": "ex04_default_00284"}
+{"id": "ex04_happy_00363", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "I was born in Hattiesburg, Mississippi.", "prompt_id": "ex04_happy_00026"}
+{"id": "ex04_happy_00364", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "OK, now you have a podcast that's available on Audible.", "prompt_id": "ex04_happy_00203"}
+{"id": "ex04_happy_00365", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Yeah, he called his house an East Coast Playboy mansion.", "prompt_id": "ex04_happy_00221"}
+{"id": "ex04_happy_00366", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "We are going to eat our way through Pennsylvania completely.", "prompt_id": "ex04_happy_00057"}
+{"id": "ex04_happy_00367", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "It's called Solomon's Paradox.", "prompt_id": "ex04_happy_00080"}
+{"id": "ex04_happy_00368", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Britain's intent when establishing New South Wales was for it to be a penal colony.", "prompt_id": "ex04_happy_00081"}
+{"id": "ex04_happy_00369", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Actually, you did a muted version of Conan O'Brien.", "prompt_id": "ex04_happy_00282"}
+{"id": "ex04_happy_00370", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "And also, Denise, you're not fooling anyone with those curls.", "prompt_id": "ex04_happy_00176"}
+{"id": "ex04_happy_00371", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Again the parallel with football can be drawn.", "prompt_id": "ex04_happy_00281"}
+{"id": "ex04_happy_00372", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "He moved back to Edinburgh, where he lived with his mother.", "prompt_id": "ex04_happy_00279"}
+{"id": "ex04_happy_00373", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.", "prompt_id": "ex04_happy_00287"}
+{"id": "ex04_happy_00374", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "He is hungry for success and I am the same.", "prompt_id": "ex04_happy_00085"}
+{"id": "ex04_happy_00375", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "They do not work for Glasgow City Council.", "prompt_id": "ex04_happy_00082"}
+{"id": "ex04_happy_00376", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Yes, today in Charleston there's a very low chance of heavy thunderstorms and rain.", "prompt_id": "ex04_happy_00259"}
+{"id": "ex04_happy_00377", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "take the highway one oh one exit towards San Jose.", "prompt_id": "ex04_happy_00183"}
+{"id": "ex04_happy_00378", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "He confessed to killing Dusty.", "prompt_id": "ex04_happy_00215"}
+{"id": "ex04_happy_00379", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Keep going until you see it.", "prompt_id": "ex04_happy_00183"}
+{"id": "ex04_happy_00380", "speaker": "ex04", "emotion": "happy", "emphasis": false, "transcription": "Here's the outlook for Mumbai over the next four days.", "prompt_id": "ex04_happy_00002"}
+{"id": "ex04_sad_00364", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "OK, now you have a podcast that's available on Audible.", "prompt_id": "ex04_sad_00101"}
+{"id": "ex04_sad_00365", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Yeah, he called his house an East Coast Playboy mansion.", "prompt_id": "ex04_sad_00012"}
+{"id": "ex04_sad_00366", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "We are going to eat our way through Pennsylvania completely.", "prompt_id": "ex04_sad_00140"}
+{"id": "ex04_sad_00367", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "It's called Solomon's Paradox.", "prompt_id": "ex04_sad_00102"}
+{"id": "ex04_sad_00368", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Britain's intent when establishing New South Wales was for it to be a penal colony.", "prompt_id": "ex04_sad_00152"}
+{"id": "ex04_sad_00369", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Actually, you did a muted version of Conan O'Brien.", "prompt_id": "ex04_sad_00207"}
+{"id": "ex04_sad_00370", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "And also, Denise, you're not fooling anyone with those curls.", "prompt_id": "ex04_sad_00073"}
+{"id": "ex04_sad_00371", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Again the parallel with football can be drawn.", "prompt_id": "ex04_sad_00277"}
+{"id": "ex04_sad_00372", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "He moved back to Edinburgh, where he lived with his mother.", "prompt_id": "ex04_sad_00104"}
+{"id": "ex04_sad_00373", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.", "prompt_id": "ex04_sad_00149"}
+{"id": "ex04_sad_00374", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "He is hungry for success and I am the same.", "prompt_id": "ex04_sad_00114"}
+{"id": "ex04_sad_00375", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "They do not work for Glasgow City Council.", "prompt_id": "ex04_sad_00167"}
+{"id": "ex04_sad_00376", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Yes, today in Charleston there's a very low chance of heavy thunderstorms and rain.", "prompt_id": "ex04_sad_00114"}
+{"id": "ex04_sad_00377", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "take the highway one oh one exit towards San Jose.", "prompt_id": "ex04_sad_00167"}
+{"id": "ex04_sad_00378", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "He confessed to killing Dusty.", "prompt_id": "ex04_sad_00048"}
+{"id": "ex04_sad_00379", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Keep going until you see it.", "prompt_id": "ex04_sad_00204"}
+{"id": "ex04_sad_00380", "speaker": "ex04", "emotion": "sad", "emphasis": false, "transcription": "Here's the outlook for Mumbai over the next four days.", "prompt_id": "ex04_sad_00141"}
