@@ -57,8 +57,7 @@ python index-tts/data_processing/migrate_gpt_checkpoint.py \
 
 Step 2:
 ```bash
-python index-tts/src/train_stress17k.py \
---config index-tts/config/finetune_stress17k_config.yaml
+sbatch index-tts/scripts/run_training_8gpu.slurm
 ```
 
 
