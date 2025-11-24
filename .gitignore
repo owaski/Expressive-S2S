@@ -7,4 +7,3 @@ index-tts/checkpoints/*
 !index-tts/checkpoints/config.yaml
 experiment/*/
 checkpoints/
-index-tts/StressTest/
