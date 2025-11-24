@@ -7,6 +7,13 @@ source Expressive-S2S/index-tts/.venv/bin/activate
 cd .. # working under the root directory
 ```
 
+## Download Index-TTS 2 modules
+Download Index-TTS 2 modules from the link below and save them to index-tts/checkpoints
+```
+https://huggingface.co/IndexTeam/IndexTTS-2/tree/main
+```
+
+
 ## Data Processing
 Step 1: 
 Download stress17k, save audio files locally, and process stressed texts. After process, the audio data will be saved to data/stress17k/train_full, the metadata json file will be saved to data/stress17k_metadata/train_full_metadata.json, and the 
