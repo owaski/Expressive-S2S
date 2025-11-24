@@ -1,0 +1,10 @@
+data/
+logs/
+__pycache__/
+*.pyc
+index-tts/.venv/
+index-tts/checkpoints/*
+!index-tts/checkpoints/config.yaml
+experiment/*/
+checkpoints/
+index-tts/StressTest/
