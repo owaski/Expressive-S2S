@@ -9,7 +9,7 @@
 #SBATCH --time=48:00:00
 #SBATCH --output=logs/indextts_8gpu_%j_%x.out
 #SBATCH --error=logs/indextts_8gpu_%j_%x.err
-
+sbatch index-tts/scripts/run_training_8gpu.slurm
 # Job information
 echo "=========================================="
 echo "IndexTTS 8-GPU Training Job"
@@ -44,12 +44,6 @@ else
     exit 1
 fi
 
-# Verify config file exists
-if [ ! -f "index-tts/config/finetune_stress17k_config.yaml" ]; then
-    echo "ERROR: Config file index-tts/config/finetune_stress17k_config.yaml not found"
-    exit 1
-fi
-
 # Check GPU availability
 echo "Checking GPU availability..."
 nvidia-smi
@@ -60,8 +54,8 @@ export NCCL_BLOCKING_WAIT=1
 export NCCL_ASYNC_ERROR_HANDLING=1
 export PYTHONPATH=/data/user_data/willw2/course_project_repo/Expressive-S2S/index-tts:$PYTHONPATH
 
-# Set WandB API key (if needed)
-# export WANDB_API_KEY=your_api_key_here
+# Set WandB API key (if needed), the following is Will Wang's API key
+export WANDB_API_KEY=680f87fc2a4c4a9fa78d94f1056bee37350e95af
 
 # Log system information
 echo "System Information:"
@@ -75,5 +69,5 @@ echo "Starting IndexTTS training with 8 GPUs..."
 
 # Run the training with srun for proper SLURM integration
 # For 8-GPU DDP training across 1 nodes: 8 tasks per node, 1 GPU per task
-srun python index-tts/src/train_stress17k.py \
---config index-tts/config/finetune_stress17k_config.yaml
+srun python index-tts/src/train.py \
+--config index-tts/config/finetune_paraspeechcaps_stress17k_config.yaml

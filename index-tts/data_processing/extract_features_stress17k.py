@@ -9,13 +9,12 @@ import os
 import torch
 import torchaudio
 import json
-from transformers import SeamlessM4TFeatureExtractor
 from tqdm import tqdm
 import argparse
 from pathlib import Path
 import sys
 
-
+from transformers import SeamlessM4TFeatureExtractor
 from indextts.utils.maskgct_utils import build_semantic_model
 from indextts.utils.front import TextNormalizer, TextTokenizer
 from src.utils import insert_stress_tokens_preserving_positions, get_stress_word_indices, remove_stress_control_markers

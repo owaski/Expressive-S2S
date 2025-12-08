@@ -1,12 +1,3 @@
-# /// script
-# requires-python = ">=3.11"
-# dependencies = [
-#     "protobuf==3.20.3",
-#     "sentencepiece",
-#     "transformers",
-# ]
-# ///
-
 import os
 from transformers.convert_slow_tokenizer import import_protobuf
 import sentencepiece as spm
