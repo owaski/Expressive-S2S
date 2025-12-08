@@ -55,7 +55,7 @@ export NCCL_ASYNC_ERROR_HANDLING=1
 export PYTHONPATH=/data/user_data/willw2/course_project_repo/Expressive-S2S/index-tts:$PYTHONPATH
 
 # Set WandB API key (if needed), the following is Will Wang's API key
-export WANDB_API_KEY=680f87fc2a4c4a9fa78d94f1056bee37350e95af
+export WANDB_API_KEY=
 
 # Log system information
 echo "System Information:"
