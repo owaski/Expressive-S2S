@@ -90,15 +90,6 @@ def load_indextts2_with_finetuned_checkpoint(
     indextts2.gpt.mel_head.load_state_dict(checkpoint['mel_head_state_dict'])
     return indextts2
 
-def infer_example(text_txt_path, output_wav_path):
-    with open(text_txt_path, 'r') as f:
-        samples = f.read().strip()
-    
-    for i, text in enumerate(samples.split('\n')):
-        indextts2_ft.infer(stress_control=True, spk_audio_prompt='examples/voice_07.wav', text=text, output_path=f"/data/user_data/willw2/data/expressive_t2s/generated_samples/finetune_infer_{i}.wav", emo_audio_prompt="examples/emo_sad.wav", verbose=True)
-        indextts2.infer(stress_control=False, spk_audio_prompt='examples/voice_07.wav', text=text, output_path=f"/data/user_data/willw2/data/expressive_t2s/generated_samples/base_infer_{i}.wav", emo_audio_prompt="examples/emo_sad.wav", verbose=True)
-
-    pass
 
 def convert_stress_labels_stresstest(text):
     """
@@ -195,10 +186,13 @@ if __name__ == "__main__":
     parser.add_argument("--ckpt_path", type=str, required=True, help="Path to the finetuned checkpoint")
     parser.add_argument("--config_path", type=str, required=True, help="Path to the config file")
     parser.add_argument("--original_ckpt_dir", type=str, default="examples/stresstest_examples.json", help="Path to the JSON file containing stresstest examples")
+    parser.add_argument("--output_dir", type=str, default="data/generated_samples", help="Directory to save generated samples")
     args = parser.parse_args()
 
     samples = get_stresstest_text("/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stresstest/stresstest.jsonl")
     # samples = ["Why did you give her <*>money</*>?"]
+    print(f"Loaded {len(samples)} stresstest samples.")
+
 
     indextts2_ft = load_indextts2_with_finetuned_checkpoint(ckpt_path=args.ckpt_path, indextts2_config_path=args.config_path, indextts2_model_dir=args.original_ckpt_dir)
     indextts2 = IndexTTS2(cfg_path=args.config_path, model_dir=args.original_ckpt_dir, use_fp16=False, use_cuda_kernel=False, use_deepspeed=False)
@@ -209,5 +203,9 @@ if __name__ == "__main__":
     # text = "<*>leonardo</*> painted a remarkable fresco"
     # text = "I <*>hate</*> this"
     for i, text in enumerate(samples[:50]):
-        indextts2_ft.infer(stress_control=True, spk_audio_prompt='index-tts/examples/voice_07.wav', text=text, output_path=f"data/generated_samples/finetune_infer_{i}.wav", verbose=True)
-        indextts2.infer(stress_control=False, spk_audio_prompt='index-tts/examples/voice_07.wav', text=text, output_path=f"data/generated_samples/base_infer_{i}.wav", verbose=True)
+        indextts2_ft.infer(stress_control=True, spk_audio_prompt='index-tts/examples/voice_07.wav', text=text, output_path=f"{args.output_dir}/finetune_infer_{i}.wav", verbose=True)
+        indextts2.infer(stress_control=False, spk_audio_prompt='index-tts/examples/voice_07.wav', text=text, output_path=f"{args.output_dir}/base_infer_{i}.wav", verbose=True)
+    
+    # Output the first 50 samples to a large json file for reference
+    with open(f"{args.output_dir}/stresstest_inputs.json", 'w') as f:
+        json.dump(samples[:50], f, indent=4)

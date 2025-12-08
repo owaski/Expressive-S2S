@@ -124,8 +124,19 @@ training:
 
 # Data configuration for Stress17K pre-computed features
 data:
-  features_root: "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stress17k"
-  metadata_path: "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stress17k_metadata/train_full_metadata.json"
+  # could pass different precomputed data for finetuning, the relevant order of metadata_paths and features_roots should be kept
+  features_roots: [
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stress17k", 
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/paraspeechcaps/precomputed_features"
+  ]
+  train_metadata_paths: [
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stress17k_metadata/train_full_train_metadata.json", 
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/paraspeechcaps/paraspeechcap_metadata_train.json"
+  ]
+  val_metadata_paths: [
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/stress17k_metadata/train_full_val_metadata.json", 
+    "/data/user_data/willw2/course_project_repo/Expressive-S2S/data/paraspeechcaps/paraspeechcap_metadata_val.json"
+  ]
   batch_size: 8   # Can be larger since no on-the-fly feature extraction
   val_batch_size: 8  
   num_workers: 4  # Can use more workers since features are pre-computed
@@ -134,10 +145,6 @@ data:
   max_audio_length: 20.0  # seconds (Stress17K has longer samples)
   max_text_length: 600    # tokens (for filtering long text)
   sample_rate: 16000 # for UnifiedVoice in index TTS 2
-  
-  # Stress17K specific splits
-  train_split: "train_full_train"
-  val_split: "train_full_val"
 
 # Training setup
 hardware:
@@ -147,8 +154,8 @@ hardware:
 
 # Logging and checkpointing
 logging:
-  output_dir: "./experiment/finetune_outputs_stress17k"
-  experiment_name: "indextts2_gpt_stress17k_finetune"
+  output_dir: "./experiment/finetune_paraspeechcaps"
+  experiment_name: "indextts2_gpt_finetune_paraspeechcaps"
   save_top_k: 3
   use_wandb: true
   wandb_project: "indextts2-stress-tts"
