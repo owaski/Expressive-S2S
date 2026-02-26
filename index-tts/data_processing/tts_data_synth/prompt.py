@@ -22,7 +22,7 @@ with open('/data/user_data/willw2/course_project_repo/Expressive-S2S/index-tts/d
 
 # OPENAI_KEY = "YOUR KEY HERE"
 OPENAI_KEY = None
-GEMINI_KEY="AIzaSyDhidZLY2k1SUQlYr5JJBH42hi4W0tmgYs"
+GEMINI_KEY= None
 
 SENTENCE_TYPES = [
     "Statement",
