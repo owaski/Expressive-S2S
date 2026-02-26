@@ -52,7 +52,7 @@ def extract_stressed_word_zh(text):
 
 # OPENAI_KEY = "YOUR KEY HERE"
 OPENAI_KEY = None
-GEMINI_KEY="AIzaSyDhidZLY2k1SUQlYr5JJBH42hi4W0tmgYs"
+GEMINI_KEY=None
 
 
 class TextIntention(BaseModel):
