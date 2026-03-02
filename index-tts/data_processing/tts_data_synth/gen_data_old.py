@@ -365,15 +365,17 @@ if __name__ == "__main__":
         help="Emotion 2 for text generation (default: sad)"
     )
 
-    args = parser.parse_args()
-    os.makedirs(args.audio_dir, exist_ok=True)
-    os.makedirs(args.text_dir, exist_ok=True)
+    # args = parser.parse_args()
+    # os.makedirs(args.audio_dir, exist_ok=True)
+    # os.makedirs(args.text_dir, exist_ok=True)
 
-    # gen_text_chatgpt(args.num, sentence_domain_topic_data, prompt_template, args.text_dir)
-    gen_text_gemini(args.num, sentence_domain_topic_data, args.config_type, args.emo1, args.emo2, args.text_dir)
-    gen_speech_cosyvoice3(
-        text_jsons=args.text_dir,
-        config_type=args.config_type,
-        output_dir=args.audio_dir,
-        n_pass=args.n_pass
-    )
+    # # gen_text_chatgpt(args.num, sentence_domain_topic_data, prompt_template, args.text_dir)
+    # gen_text_gemini(args.num, sentence_domain_topic_data, args.config_type, args.emo1, args.emo2, args.text_dir)
+    # gen_speech_cosyvoice3(
+    #     text_jsons=args.text_dir,
+    #     config_type=args.config_type,
+    #     output_dir=args.audio_dir,
+    #     n_pass=args.n_pass
+    # )
+
+    

@@ -9,7 +9,7 @@ from tqdm import tqdm
 import multiprocessing
 
 
-API_KEY="***REMOVED***"
+API_KEY=None
 
 examples = [
     {
