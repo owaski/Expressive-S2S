@@ -9,7 +9,7 @@ from tqdm import tqdm
 import multiprocessing
 
 
-API_KEY="AIzaSyDhidZLY2k1SUQlYr5JJBH42hi4W0tmgYs"
+API_KEY=None
 
 examples = [
     {
