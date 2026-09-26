@@ -1,3 +1,4 @@
+.env
 data/
 logs/
 __pycache__/
@@ -7,3 +8,4 @@ index-tts/checkpoints/*
 !index-tts/checkpoints/config.yaml
 experiment/*/
 checkpoints/
+gemini-tts-474220-65a0aff01f09.json

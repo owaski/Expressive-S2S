@@ -10,7 +10,9 @@ from tqdm import tqdm
 import numpy as np
 from sklearn.metrics import precision_score, recall_score, f1_score
 
-API_KEY="***REMOVED***"
+from dotenv import load_dotenv
+load_dotenv("/data/user_data/willw2/course_project_repo/Expressive-S2S/.env")
+API_KEY = os.environ["GEMINI_API_KEY"]
 
 examples = [
     {
