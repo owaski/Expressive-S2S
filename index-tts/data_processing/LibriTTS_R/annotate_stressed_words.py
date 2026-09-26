@@ -9,7 +9,9 @@ from tqdm import tqdm
 import multiprocessing
 
 
-API_KEY="***REMOVED***"
+from dotenv import load_dotenv
+load_dotenv("/data/user_data/willw2/course_project_repo/Expressive-S2S/.env")
+API_KEY = os.environ["GEMINI_API_KEY"]
 
 examples = [
     {
